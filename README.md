@@ -43,16 +43,6 @@
 - AI Perception
 - Behavior Tree / EQS
 
-## 代码入口
-
-- `Source/SoulCombatLab/Private/Characters/Player/SCLPlayerComboComponent.cpp`
-- `Source/SoulCombatLab/Private/Combat/SCLCombatComponent.cpp`
-- `Source/SoulCombatLab/Private/Combat/SCLHitTraceComponent.cpp`
-- `Source/SoulCombatLab/Private/Characters/Components/SCLActionMovementComponent.cpp`
-- `Source/SoulCombatLab/Private/AbilitySystem/Abilities/`
-
-更完整的系统说明见：`Docs/Architecture.md`
-
 ## 资源说明
 
 仓库不包含完整第三方角色、动画和特效资源。相关资源依赖与授权说明见：
